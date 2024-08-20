@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Maraj-Khan.
-- 👀 I’m interested in Full-Stack Development.
+- 👀 I’m interested in Front-End development.
 - 🌱 I’m currently learning Next.Js.
 - 💞️ I’m looking to collaborate on any type of Web projects.
 - 📫 Contact me on mairajkhan11345@gmail.com.
