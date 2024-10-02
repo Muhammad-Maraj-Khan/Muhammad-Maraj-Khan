@@ -2,6 +2,10 @@
 
 👨‍💻 Specializing in ReactJS and Next.js<br>🎨 Passionate about crafting seamless user experiences<br>🚀 Currently exploring 3D web development with Three.js and Spline<br>💡 Always learning and eager to collaborate on innovative projects
 
+
+## 📁 Portfolio:
+[**Maraj's Portfolio**](https://maraj-portfolio.vercel.app/)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mairajkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-maraj-khan) 
 
